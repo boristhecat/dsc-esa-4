@@ -10,4 +10,4 @@
 
 ---
 
-3)
+3) Part three: the requested exercises are shown in the juypter notebook `dsc-esa-4-exercise-3.ipynb`.
